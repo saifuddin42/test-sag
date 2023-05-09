@@ -3,5 +3,5 @@
 <Values version="2.0">
   <value name="name">new_javaService</value>
   <value name="encodeutf8">true</value>
-  <null name="body"/>
+  <value name="body">U3lzdGVtLm91dC5wcmludGxuKCJoaSIpOw==</value>
 </Values>
