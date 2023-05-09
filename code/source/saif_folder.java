@@ -30,6 +30,7 @@ public final class saif_folder
 	{
 		// --- <<IS-START(new_javaService)>> ---
 		// @sigtype java 3.5
+		System.out.println("hi");
 		// --- <<IS-END>> ---
 
                 
